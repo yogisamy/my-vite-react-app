@@ -1,0 +1,32 @@
+{
+    "name":"Yogamani",
+    "designation":"Full stack developer",
+    "summary":{
+        "title":"Summary",
+        "description":""
+    },
+    "emailId":"test@gmail.com",
+    "phoneNo":"1234444",
+    "project":[
+        {
+          "title":"Title" ,
+          "company":"",
+          "projectDescription":[
+            "point1","point2"
+          ]
+           
+        }
+    ],
+    "skills":[
+        {
+            "title":"Backend",
+            "technologies":["java","Node Js", "Express JS"]
+        },
+        {
+            "title":"Frontend",
+            "technologies":["Html","Javascript", "CSS", "React"]
+        }
+    ]
+
+    
+}
