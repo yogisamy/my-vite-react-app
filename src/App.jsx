@@ -13,7 +13,7 @@ function App() {
   // state and dispatch
   const [usersResponse, getUsers] = useApi();
    const [postsResponse, getPosts] = useApi();
-
+  //console.log
   useEffect(() => {
     dispatch({ type: "USERS_INIT" });
     getUsers(getUserList());
